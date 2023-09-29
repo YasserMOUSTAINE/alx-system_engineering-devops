@@ -1,2 +1,6 @@
 #!/bin/bash
 file /tmp/iamafile
+<<<<<<< HEAD
+=======
+
+>>>>>>> 44ecdc46ce34cea22abfea917cd5d66fbd8f3788
