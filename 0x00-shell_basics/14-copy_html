@@ -1,7 +1,0 @@
-#!/bin/bash
-<<<<<<< HEAD
-cp -u *.html
-=======
-cp -u *.htm ..
-
->>>>>>> 44ecdc46ce34cea22abfea917cd5d66fbd8f3788
